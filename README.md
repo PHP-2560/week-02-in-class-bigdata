@@ -5,7 +5,7 @@ Have one person fill in the names of who is doing this:
 1. Joey Heffner
 2. Willy Lee
 3. Trevor Vendetti
-4. _______________________________
+4. Maydelis Minaya
 
 # In-Class
 

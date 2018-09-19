@@ -2,9 +2,9 @@
 
 Have one person fill in the names of who is doing this:
 
-1. _______________________________
-2. _______________________________
-3. _______________________________
+1. Joey Heffner
+2. Willy Lee
+3. Trevor Vendetti
 4. _______________________________
 
 # In-Class
